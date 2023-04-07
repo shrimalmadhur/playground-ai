@@ -1,0 +1,11 @@
+db/
+
+.env
+
+server/.env 
+
+server/__pycache__
+
+node_modules/
+
+notebooks/.ipynb_checkpoints/
